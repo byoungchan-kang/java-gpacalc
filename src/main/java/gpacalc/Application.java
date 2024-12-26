@@ -2,7 +2,7 @@ package gpacalc;
 
 import static camp.nextstep.edu.missionutils.Console.readLine;
 
-//import gpacalc.Subject;
+//import gpacalc.Subject; ...
 
 import java.util.ArrayList;
 
